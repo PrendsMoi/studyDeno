@@ -2,11 +2,11 @@
  * @Author: Arvin
  * @GitHub: https://github.com/973749104
  * @Blog: https://liuhgxu.com
- * @Description: 说明
- * @FilePath: /demo/todo/services/todo.ts
+ * @Description: todo数据操作服务
+ * @FilePath: /deno/todo/services/todo.ts
  * @Date: 2020-07-24 15:18:37
  * @LastEditors: Arvin
- * @LastEditTime: 2020-07-29 14:54:28
+ * @LastEditTime: 2020-07-29 15:13:19
  */ 
 import { fetchData, persistData } from './db.ts'
 import { Todo } from '../models/todo.ts'

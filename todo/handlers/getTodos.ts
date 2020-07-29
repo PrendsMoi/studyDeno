@@ -2,11 +2,11 @@
  * @Author: Arvin
  * @GitHub: https://github.com/973749104
  * @Blog: https://liuhgxu.com
- * @Description: 说明
- * @FilePath: /demo/todo/handlers/getTodos.ts
+ * @Description: 获取todo列表
+ * @FilePath: /deno/todo/handlers/getTodos.ts
  * @Date: 2020-07-24 11:53:27
  * @LastEditors: Arvin
- * @LastEditTime: 2020-07-24 15:18:28
+ * @LastEditTime: 2020-07-29 15:13:56
  */ 
 
 import { Response } from 'https://deno.land/x/oak/mod.ts'

@@ -2,11 +2,11 @@
  * @Author: Arvin
  * @GitHub: https://github.com/973749104
  * @Blog: https://liuhgxu.com
- * @Description: 配置文件 
- * @FilePath: /demo/todo/config.ts
+ * @Description: 配置文件  
+ * @FilePath: /deno/todo/config.ts
  * @Date: 2020-07-24 11:22:32
  * @LastEditors: Arvin
- * @LastEditTime: 2020-07-24 11:50:25
+ * @LastEditTime: 2020-07-29 15:15:00
  */ 
 
 // Deno.env等同于Node的process.env

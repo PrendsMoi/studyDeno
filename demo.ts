@@ -2,11 +2,11 @@
  * @Author: Arvin
  * @GitHub: https://github.com/973749104
  * @Blog: https://liuhgxu.com
- * @Description: deno hello word
- * @FilePath: /demo/demo.ts
+ * @Description: deno hello word 
+ * @FilePath: /deno/demo.ts
  * @Date: 2020-05-21 13:39:13
  * @LastEditors: Arvin
- * @LastEditTime: 2020-07-23 17:38:50
+ * @LastEditTime: 2020-07-29 15:15:17
  */ 
 
 import { serve, Server } from 'https://deno.land/std/http/server.ts'

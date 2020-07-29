@@ -2,11 +2,11 @@
  * @Author: Arvin
  * @GitHub: https://github.com/973749104
  * @Blog: https://liuhgxu.com
- * @Description: 说明
- * @FilePath: /demo/todo/handlers/getTodoDetail.ts
+ * @Description: 获取todo详情
+ * @FilePath: /deno/todo/handlers/getTodoDetail.ts
  * @Date: 2020-07-24 11:53:39
  * @LastEditors: Arvin
- * @LastEditTime: 2020-07-24 15:22:39
+ * @LastEditTime: 2020-07-29 15:14:17
  */ 
 import { Response, RouteParams } from 'https://deno.land/x/oak/mod.ts'
 import { getTodo } from '../services/todo.ts'

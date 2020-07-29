@@ -2,11 +2,11 @@
  * @Author: Arvin
  * @GitHub: https://github.com/973749104
  * @Blog: https://liuhgxu.com
- * @Description: 说明
- * @FilePath: /demo/todo/services/db.ts
+ * @Description: 数据文件处理
+ * @FilePath: /deno/todo/services/db.ts
  * @Date: 2020-07-29 11:59:32
  * @LastEditors: Arvin
- * @LastEditTime: 2020-07-29 14:54:40
+ * @LastEditTime: 2020-07-29 15:13:03
  */
 import { DB_PATH } from '../config.ts'
 import { Todo } from '../models/todo.ts'

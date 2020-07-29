@@ -2,11 +2,11 @@
  * @Author: Arvin
  * @GitHub: https://github.com/973749104
  * @Blog: https://liuhgxu.com
- * @Description: 说明
- * @FilePath: /demo/todo/handlers/createTodo.ts
+ * @Description: 创建todo
+ * @FilePath: /deno/todo/handlers/createTodo.ts
  * @Date: 2020-07-24 11:53:50
  * @LastEditors: Arvin
- * @LastEditTime: 2020-07-29 14:21:45
+ * @LastEditTime: 2020-07-29 15:14:34
  */ 
 import { Response } from 'https://deno.land/x/oak/mod.ts'
 import { createTodo } from '../services/todo.ts'
