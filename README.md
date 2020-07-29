@@ -7,6 +7,8 @@ deno学习
 
 3. todo oka框架的todo api demo
 
+4. todo-mysql 连接mysql版的oka框架的todo api demo
+
 ⚠️ 使用denon进行文件热重载
 ```bash
 # 升级deno
