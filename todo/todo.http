@@ -1,0 +1,31 @@
+@todoId = 07b74180-be8a-40db-a9cf-1a7d15804e5e
+
+### 获取Todo列表
+GET http://localhost:3000/todos HTTP/1.1
+
+### 获取Todo详情
+
+GET http://localhost:3000/todos/${todoId}
+
+### 新增Todo
+
+POST http://localhost:3000/todos HTTP/1.1
+content-type: application/json
+
+{
+    "userId": 666111,
+    "title": "Learn Deno"
+}
+
+### 更新Todo
+PUT http://localhost:3000/todos/${todoId} HTTP/1.1
+content-type: application/json
+
+{
+    "userId": 666,
+    "title": "Learn Deno",
+    "completed": true  
+}
+
+### 删除Todo
+DELETE  http://localhost:3000/todos/{{todoId}} HTTP/1.1
